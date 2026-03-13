@@ -164,9 +164,9 @@ Some insights discovered during the analysis:
 - Query Optimization with Indexes
 - Analytical SQL Techniques
 
-#Author
+# Author
 
-Rohit Baral
+## Rohit Baral
 
 Master’s in Data Science
 Aspiring Data Analyst

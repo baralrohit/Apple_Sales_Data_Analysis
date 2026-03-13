@@ -1,3 +1,5 @@
+![Apple Store](Apple-Stores-Closed-770x433.jpg)
+
 # Apple_Sales_Data_Analysis
 SQL-based analysis of a 1M+ row Apple retail sales dataset covering sales trends, warranty claims, store performance, and advanced analytics using PostgreSQL.
 

@@ -33,6 +33,11 @@ However, the SQL queries and analysis can be reproduced using any dataset with a
 
 ---
 
+### ERD Diagram
+The Entity-Relationship Diagram (ERD) shows the schema of the dataset used in this project:
+
+![ERD Diagram](ERD_diagram.pgerd.png)
+
 ## Project Goals
 
 This project answers key business questions such as:
